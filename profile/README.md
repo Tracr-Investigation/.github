@@ -13,7 +13,7 @@ We build **Tracr**, a self-hosted platform for running collaborative OSINT inves
 ## Our repositories
 
 - **[Tracr](https://github.com/Tracr-Investigation/Tracr)** - the main investigation platform.
-- 
+
 <div align="center">
 
 *Privacy-respecting. Self-hosted. Open source.*
